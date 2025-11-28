@@ -1,0 +1,62 @@
+[
+  {
+    "name": "David",
+    "isActive": true
+  },
+  {
+    "name": "Sara",
+    "isActive": false
+  },
+  {
+    "name": "Yosef",
+    "isActive": true
+  },
+  {
+    "name": "Riva",
+    "isActive": true
+  },
+  {
+    "name": "Daniel",
+    "isActive": false
+  },
+  {
+    "name": "Gili",
+    "isActive": true
+  },
+  {
+    "name": "Haim",
+    "isActive": false
+  },
+  {
+    "name": "Talia",
+    "isActive": true
+  },
+  {
+    "name": "Oren",
+    "isActive": false
+  },
+  {
+    "name": "Michal",
+    "isActive": true
+  },
+  {
+    "name": "Eitan",
+    "isActive": true
+  },
+  {
+    "name": "Zohar",
+    "isActive": false
+  },
+  {
+    "name": "Nir",
+    "isActive": true
+  },
+  {
+    "name": "Liora",
+    "isActive": false
+  },
+  {
+    "name": "Shimon",
+    "isActive": true
+  }
+]
