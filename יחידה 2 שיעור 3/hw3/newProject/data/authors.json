@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "firstName": "משה",
+    "lastName": "כהן",
+    "birthYear": 1980,
+    "country": "ישראל"
+  },
+  {
+    "id": 102,
+    "firstName": "דוד",
+    "lastName": "לוי",
+    "birthYear": 1995,
+    "country": "ישראל"
+  },
+  {
+    "id": 103,
+    "firstName": "יוסף",
+    "lastName": "ישראלי",
+    "birthYear": 1970,
+    "country": "ארה\"ב"
+  }
+]

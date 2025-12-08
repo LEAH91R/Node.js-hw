@@ -1,0 +1,23 @@
+[
+  {
+    "id": 201,
+    "name": "אברהם שלום",
+    "email": "avraham@example.com",
+    "memberSince": "2023-01-15",
+    "borrowedBooksIds": [1]
+  },
+  {
+    "id": 202,
+    "name": "יצחק לביא",
+    "email": "yitzhak@example.com",
+    "memberSince": "2024-05-20",
+    "borrowedBooksIds": [2]
+  },
+  {
+    "id": 203,
+    "name": "יעקב גוטליב",
+    "email": "yaakov@example.com",
+    "memberSince": "2022-11-01",
+    "borrowedBooksIds": []
+  }
+]

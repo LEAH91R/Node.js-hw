@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "מדריך למתחילים ב-Node.js",
+    "authorId": 101,
+    "ISBN": "978-0123456789",
+    "genre": "טכנולוגיה",
+    "publicationYear": 2023,
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "title": "מבוא ל-Express Framework",
+    "authorId": 102,
+    "ISBN": "978-9876543210",
+    "genre": "טכנולוגיה",
+    "publicationYear": 2022,
+    "isAvailable": false
+  },
+  {
+    "id": 3,
+    "title": "יסודות פיתוח צד-שרת",
+    "authorId": 101,
+    "ISBN": "978-1112223334",
+    "genre": "פיתוח תוכנה",
+    "publicationYear": 2024,
+    "isAvailable": true
+  }
+]
